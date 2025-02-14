@@ -28,6 +28,8 @@ The program creates a configuration file at:
 to save internal settings.
 
 Important Notes
+Ctrl and alt are special keys and cannot be entered.
+
 Even after closing the program, the microphone volume setting remains unchanged.
 
 If the default setting is "Unmute on Key Press," the volume may stay at 0.
@@ -65,6 +67,7 @@ Thank you.
 파일 내부의 설정을 저장하기 위해 \AppData\Roaming\MyMicController\config.json 파일을 생성하였습니다.
 
 주의할점
+  ctrl, alt 는 특수키 이므로 입력이 되지 않습니다.
 
   프로그램을 종료해도 설정한 마이크 볼륨값이 유지되므로 기본값이 눌렀을때 음소거 해제라면 
   0으로 유지됩니다 추후 마이크 사용시 주의해 주세요
