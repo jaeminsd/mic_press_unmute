@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e198c195-e878-4da1-b0db-63bbe6329669)Program Description
+Program Description
 This program is a microphone ON/OFF controller.
 Pressing a specific key toggles the microphone ON or OFF,
 and releasing the key switches it OFF/ON accordingly.
