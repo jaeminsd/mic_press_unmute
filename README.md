@@ -1,7 +1,9 @@
-Program Description
+![image](https://github.com/user-attachments/assets/e198c195-e878-4da1-b0db-63bbe6329669)Program Description
 This program is a microphone ON/OFF controller.
 Pressing a specific key toggles the microphone ON or OFF,
 and releasing the key switches it OFF/ON accordingly.
+An icon is created in the task tray
+Additional settings are possible when you right-click the mouse
 
 Simply put:
 
@@ -48,7 +50,8 @@ Thank you.
 특정 키를 떼면 OFF / ON 됩니다
   쉽게 설명하면 키를 눌렀을때 음소거 해제(기본 음소거 상태) 
   반대로 키를 뗐을때 음소거 모드도 지원 합니다
-
+작업 트레이에 아이콘이 생성되며
+  마우스 우클릭시 추가 설정 가능합니다
 
 추가 설명
 
